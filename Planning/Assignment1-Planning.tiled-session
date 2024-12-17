@@ -1,0 +1,33 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Walls.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/Unity Projects/VR3DGames-Assignment-1/Planning/Planning Assets/Tiles/Walls",
+    "map.fixedSize": false,
+    "map.height": 100,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": "1",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 100,
+    "openFiles": [
+    ],
+    "project": "Assignment1-Planning.tiled-project",
+    "recentFiles": [
+        "Walls.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
