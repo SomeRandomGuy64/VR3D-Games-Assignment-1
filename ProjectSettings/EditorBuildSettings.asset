@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 3db1837cc97a95e4c98610966fac2b0b
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
+    path: Assets/Scenes/CombatFloorOne.unity
     guid: 866f54ffe2c62a44f99f3abb70af59d8
   m_configObjects: {}
